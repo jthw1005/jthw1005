@@ -4,6 +4,8 @@
 
 - 📚 I'm currently interested in Front-End Engineer.
 
+- 📮 How to reach me: skl0105@naver.com
+
 </br>
 
 [![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=jthw1005&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
