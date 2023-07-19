@@ -1,4 +1,4 @@
-### Helloo there, I'm Juntae 👋
+### Hello there, I'm Juntae 👋
 
 - 🧑🏻‍🎓 I majored in Electronics and Electrical Engineering.
 
